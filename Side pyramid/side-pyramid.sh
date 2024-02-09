@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Provide an argument to the script, example: bash side-pyramid.sh 7
 n=$1
 
 line() {
